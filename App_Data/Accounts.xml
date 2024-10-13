@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Accounts>
+	<Account>
+		<Username>Angel Moreno</Username>
+		<Password>Password1</Password>
+	</Account>
+	<Account>
+		<Username>Yash Sharma</Username>
+		<Password>Password2</Password>
+	</Account>
+	<Account>
+		<Username>Bob</Username>
+		<Password>123</Password>
+	</Account>
+	<Account>
+		<Username>Dave</Username>
+		<Password>123</Password>
+	</Account>
+	<Account>
+		<Username>Jake</Username>
+		<Password>qwe</Password>
+	</Account>
+</Accounts>
